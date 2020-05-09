@@ -10,7 +10,8 @@ En lista på viktiga telefonnummer i Sverige (avsedd främst för svensktalande)
 
 <p align="center">
 <a href="#listan">Listan</a> •
-<a href="#referenser">Referenser</a>
+<a href="#referenser">Referenser</a> •
+<a href="#changelog">Changelog</a>
 </p>
 
 ## Listan
@@ -18,6 +19,11 @@ En lista på viktiga telefonnummer i Sverige (avsedd främst för svensktalande)
 <a href="https://github.com/Tcip/ViktigaNr/blob/master/Viktiga-TeleNr-Long">Viktiga-TeleNr-Long</a> `Med beskrivning`
 <br>
 <a href="https://github.com/Tcip/ViktigaNr/blob/master/Viktiga-TeleNr-Short">Viktiga-TeleNr-Short</a> `Utan beskrivning`
+
+
+## Changelog
+
+Ändringslogg finns <a href="https://github.com/Tcip/ViktigaNr/blob/master/CHANGELOG.md">här</a>
 
 
 ## Referenser
