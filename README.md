@@ -31,6 +31,7 @@ En lista på viktiga telefonnummer i Sverige (avsedd främst för svensktalande)
 * <a href="https://www.1177.se/">1177 Vårdguiden</a>
 * <a href="https://atim.se/">ATIM</a>
 * <a href="https://www.bris.se/">Bris</a>
+* <a href="http://www.femcenter.se/">FemCenter Kvinnojour</a>
 * <a href="https://www.folkhalsomyndigheten.se/">Folkhälsomyndigheten</a>
 * <a href="https://giftinformation.se/">Giftinformationscentralen</a>
 * <a href="https://www.krisinformation.se/">Krisinformation.se</a>
