@@ -1,5 +1,8 @@
 ## Changelog
 
+#### 2020-05-13
+Lade till <a href="https://atim.se/">ATIM</a> i listan.
+
 #### 2020-05-09
 Skapade en ändringslogg. 
 
