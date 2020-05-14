@@ -1,5 +1,13 @@
 ## Changelog
 
+#### 2020-05-14
+Lade till <a href="https://nxtme.se/">nxtME</a> i listan.<br>
+Lade till <a href="https://www.ecpat.se/">ECPAT Sverige</a> i listan.<br>
+Lade till <a href="https://www.brottsofferjouren.se/">Brottsofferjouren</a> i listan.<br>
+Lade till <a href="https://www.barnombudsmannen.se/">Barnombudsmannen</a> i listan.<br>
+Lade till <a href="https://somaya.se/">Somaya</a> i listan.<br>
+Lade till <a href="https://www.malmokvinnojour.se/">Malmö Kvinnojour</a> i listan.
+
 #### 2020-05-13
 Lade till <a href="http://www.femcenter.se/">FemCenter Kvinnojour
 </a> i listan.<br>

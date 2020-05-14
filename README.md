@@ -30,10 +30,16 @@ En lista på viktiga telefonnummer i Sverige (avsedd främst för svensktalande)
 
 * <a href="https://www.1177.se/">1177 Vårdguiden</a>
 * <a href="https://atim.se/">ATIM</a>
+* <a href="https://www.barnombudsmannen.se/">Barnombudsmannen</a>
 * <a href="https://www.bris.se/">Bris</a>
+* <a href="https://www.brottsofferjouren.se/">Brottsofferjouren</a>
+* <a href="https://www.ecpat.se/">ECPAT Sverige</a>
 * <a href="http://www.femcenter.se/">FemCenter Kvinnojour</a>
 * <a href="https://www.folkhalsomyndigheten.se/">Folkhälsomyndigheten</a>
 * <a href="https://giftinformation.se/">Giftinformationscentralen</a>
 * <a href="https://www.krisinformation.se/">Krisinformation.se</a>
+* <a href="https://www.malmokvinnojour.se/">Malmö Kvinnojour</a>
+* <a href="https://nxtme.se/">nxtME</a>
 * <a href="https://www.sosalarm.se/">SOS Alarm</a>
+* <a href="https://somaya.se/">Somaya</a>
 * <a href="https://www.svenskakyrkan.se/">Svenska kyrkan</a>
