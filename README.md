@@ -34,7 +34,7 @@ En lista på viktiga telefonnummer i Sverige (avsedd främst för svensktalande)
 * <a href="https://www.bris.se/">Bris</a>
 * <a href="https://www.brottsofferjouren.se/">Brottsofferjouren</a>
 * <a href="https://www.ecpat.se/">ECPAT Sverige</a>
-* <a href="http://www.femcenter.se/">FemCenter Kvinnojour</a>
+* <a href="https://www.femcenter.se/">FemCenter Kvinnojour</a>
 * <a href="https://www.folkhalsomyndigheten.se/">Folkhälsomyndigheten</a>
 * <a href="https://giftinformation.se/">Giftinformationscentralen</a>
 * <a href="https://www.krisinformation.se/">Krisinformation.se</a>
